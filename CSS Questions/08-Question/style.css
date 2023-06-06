@@ -1,0 +1,131 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    max-width: 1440px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+    color: #E03B8B;
+}
+.container{
+    display: grid;
+    gap: 6px;
+    grid-template-columns: 40px 59px 50px 50px 50px 40px 40px 50px 45px 40px 45px 50px 55px 50px 45px 45px 45px 50px;
+    margin-top: 80px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    gap: 23px;
+    margin-top: 40px;
+    margin-left: 140px;
+}
+#grp1{
+    position: absolute;
+    top: 175px;
+    left: 205px;
+}
+#grp2{
+    position: absolute;
+    top: 175px;
+    left: 260px;
+}
+.period{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 20px;
+    margin-top: 13px;
+}
+.period1{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+}
+#per1{
+    position: absolute;
+    top: 208px;
+    left: 202px;
+}
+#per2{
+    position: absolute;
+    top: 228px;
+    left: 220px;
+}
+.period2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 20px;
+    margin-top: 56px;
+    margin-left: -18px;
+}
+.elements1{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 20px;
+    background-color: orange;
+}
+.period3{
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 40px;
+    margin-top: 166px;
+    gap: 6px 11px;
+    font-size: 20px;
+}
+.elements2{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 20px;
+    background-color:rgb(181, 181, 243);
+}
+.period4{
+    display: grid;
+    grid-template-columns: 55x 55px 55px 55px 55px 55px;
+    gap: 6px 7px;
+    font-size: 20px;
+}
+.elements3{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 20px;
+    background-color: yellow;
+}
+#one{
+    grid-column-start: 6;
+    background-color: orange;
+}
+
+.period5{
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px 40px 40px 40px 40px 40px 52px 41px 41px 40px 40px;
+    margin-top: 15px;
+    margin-left: 300px;
+    gap: 6px 11px;
+    font-size: 20px;
+}
+.elements4{
+    width: 45px;
+    height: 45px;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 20px;
+    background-color: rgb(116, 233, 116);
+}

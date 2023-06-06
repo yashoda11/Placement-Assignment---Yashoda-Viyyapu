@@ -1,0 +1,19 @@
+h1{
+    color: #6ab04c;
+  } 
+  .pos_absolute{
+    display: inline-block;
+    border: 1px solid #22a6b3;
+    color: #e056fd;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 60px;
+    border-radius: 7px;
+    background-Color: #f6e58d;
+  }
+  #three{
+    position: absolute;
+    top: 120px;
+    left:105px;
+  } 
