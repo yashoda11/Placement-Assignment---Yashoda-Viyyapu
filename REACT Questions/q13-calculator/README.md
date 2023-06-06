@@ -1,3 +1,5 @@
+# **OUTPUT Image**
+
 ![Output Image for Simple Calculator App using React](./Output-Calculator-App.png)
 
 # Getting Started with Create React App
