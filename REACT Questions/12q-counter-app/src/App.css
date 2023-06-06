@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  color: #E03B8B;
+  background: #dff9fb;
+}
+h1{
+  margin-top: 200px;
+}
+button {
+  color: #E03B8B;
+  font-weight: 700;
+  padding: 15px 30px;
+  margin: 10px;
+  font-size: 20px;
+  text-transform: uppercase;
+  /* width: 300px; */
+  border-radius: 10px;
+  border: none;
+  box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+  background-color: #38CC77;
+}
+.btn{
+display: flex;
+font-size: 20px;
+/* margin-top: 100px; */
+}
