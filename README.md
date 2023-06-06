@@ -1,2 +1,2 @@
-# Placement-Assignment---Yashoda-Viyyapu
+# Placement-Assignment-Yashoda-Viyyapu
 FSJS - Placement Assignment Questions
